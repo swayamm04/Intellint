@@ -450,7 +450,8 @@ def select_components():
         <button type="submit">Generate</button>
     </form>
     <footer>
-        <p>© 2024 Professional Design. All rights reserved.</p>
+        <p>© 2024 IntelliNet. All rights reserved. | Simplifying web navigation
+        with voice assistance.</p>
     </footer>
 </body>
 </html>
@@ -811,3 +812,4 @@ document.getElementById('connect')?.addEventListener('click', () => scrollToSect
 
 if __name__ == '__main__':  # Corrected this line
     app.run(debug=True)
+
